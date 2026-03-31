@@ -1,7 +1,7 @@
-## WELCOME TO MY PAGE
+*WELCOME TO MY PAGE*
 
-## College
-- Yeungnam University Computer Engineering
+## University
+- Computer Engineering, Yeungnam University
 
 ## Contact
 - email : sjh040618@yu.ac.kr
