@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**panggu-893/panggu-893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## College
+- Yeungnam University Computer Engineering
 
-Here are some ideas to get you started:
+## Contact
+- email : sjh040618@yu.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Computer Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: sjh040618@yu.ac.kr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## purpose
+- Game Programmer
+- Game Director
+- other jobs related game
